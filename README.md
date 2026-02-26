@@ -41,8 +41,9 @@
 ![myapp:py](img/00.21.40.png)
 
 SQL-запрос на сервере после запросов:
-![myapp:py](img/00.37.33.png)
+![myapp:py](img/01.08.53.png)
 
 Задача 6 / 6.1 / 6.2 — извлечение /bin/terraform из образа
+![myapp:py](img/00.37.33.png)
 ![myapp:py](img/00.41.02.png)
 ![myapp:py](img/00.44.05.png)
